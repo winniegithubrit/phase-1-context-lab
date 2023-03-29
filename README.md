@@ -1,5 +1,6 @@
 # Context Lab
 
+
 ## Learning Goals
 
 * Update our time-card and payroll application to use the employee record as
